@@ -1,2 +1,2 @@
-# python
-In this repository, I'll start a project to learn python
+# 计算机图形学 扫描转换算法 python
+在此程序中，主要有三个函数，建立NET表，建立AET表，以及最后根据AET画出图形
